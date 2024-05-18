@@ -1,2 +1,4 @@
 !.gitignore
 node_modules
+data.db
+test/test_data.db
